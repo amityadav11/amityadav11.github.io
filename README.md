@@ -6,7 +6,15 @@
 ```
 npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
 ```
-
+```
+"homepage": "https://amityadav11.github.io",
+"scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    }
+npm install -g gh-pages
+gh-pages --version
+```
 
 # Getting Started with Create React App
 
