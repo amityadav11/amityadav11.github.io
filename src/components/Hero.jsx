@@ -20,10 +20,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             A passionate developer <br className="sm:block hidden" />
-            As a Full Stack Developer, I have extensive experience with
-            JavaScript, React, HTML, and CSS. I am committed to delivering
-            high-quality code and staying up-to-date with industry trends to
-            provide effective solutions for clients and end-users.
+            I develop creative user friendly websites.
           </p>
         </div>
       </div>
