@@ -74,7 +74,7 @@ const ProjectCard = ({
 
 const Works = () => {
   return (
-    <>
+    <div id="projects">
       <motion.div variants={textVariant()}>
         <p className={`${styles.sectionSubText} `}>My work</p>
         <h2 className={`${styles.sectionHeadText}`}>Projects.</h2>
@@ -108,7 +108,7 @@ const Works = () => {
 
         <div
           className="green-pink-gradient p-[1px] rounded-full flex justify-center items-center cursor-pointer mt-4"
-          // onClick={() => window.open(mygithub, "_blank")}
+          onClick={() => window.open(mygithub, "_blank")}
         >
           <div className="bg-tertiary rounded-full px-3 py-2 flex justify-evenly items-center">
             <img
@@ -121,7 +121,7 @@ const Works = () => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   )
 }
 

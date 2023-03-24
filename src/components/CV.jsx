@@ -76,7 +76,7 @@ console.log(Words)
             <img src={CV_Duncan} alt="CVDuncan" className="w-[250px]" />
 
             <a href={CVDoc} download>
-              <button className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary text-[21px]">
+              <button className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary text-[21px]" onClick={() => window.open(CVDoc, "_blank")}>
                 Download CV
               </button>
             </a>

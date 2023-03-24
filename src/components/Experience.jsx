@@ -11,6 +11,7 @@ import { styles } from "../styles"
 import { experiences } from "../constants"
 import { SectionWrapper } from "../hoc"
 import { textVariant } from "../utils/motion"
+import {project1} from "../assets"
 
 const ExperienceCard = ({ experience }) => {
   return (
@@ -39,7 +40,7 @@ const ExperienceCard = ({ experience }) => {
         </p>
       </div>
 
-      <ul className="mt-5 list-disc ml-5 space-y-2">
+      {/* <ul className="mt-5 list-disc ml-5 space-y-2">
         {experience.points.map((point, index) => (
           <li
             key={`experience-point-${index}`}
@@ -48,20 +49,27 @@ const ExperienceCard = ({ experience }) => {
             {point}
           </li>
         ))}
-      </ul>
+      </ul> */}
+      <div className="flex justify-center items-center w-full h-full">
+          <img
+            src={experience.img}
+            alt={experience.company_name}
+            className="w-[100%] h-[100%] object-contain"
+          />
+        </div>
     </VerticalTimelineElement>
   )
 }
 
 const Experience = () => {
   return (
-    <>
+    <div id="skills">
       <motion.div variants={textVariant()}>
         <p className={`${styles.sectionSubText} text-center`}>
           What I have done so far
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
-          Work Experience.
+          My Work
         </h2>
       </motion.div>
 
@@ -75,7 +83,7 @@ const Experience = () => {
           ))}
         </VerticalTimeline>
       </div>
-    </>
+    </div>
   )
 }
 

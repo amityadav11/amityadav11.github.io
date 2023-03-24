@@ -31,7 +31,10 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import project1 from "./projects/project1.jpg"
+import project2 from "./projects/project2.jpg"
+import project3 from "./projects/project3.jpg"
+import project4 from "./projects/project4.jpg"
 export {
   me,
   CV_Duncan,
@@ -63,4 +66,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  project1,
+  project2,
+  project3,
+  project4,
 };
