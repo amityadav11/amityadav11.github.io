@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.21012c65.css",
-    "main.js": "/static/js/main.eb1ddf3c.js",
+    "main.css": "/static/css/main.fd4d4220.css",
+    "main.js": "/static/js/main.a08544fe.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/tripguide.png": "/static/media/tripguide.991986c795ea140ba063.png",
     "static/media/me.png": "/static/media/me.d60da57b91ae990b5906.png",
@@ -9,7 +9,11 @@
     "static/media/herobg.png": "/static/media/herobg.ad33add2430e34307c33.png",
     "static/media/carrent.png": "/static/media/carrent.6b1e855ede285c40b77f.png",
     "static/media/jobit.png": "/static/media/jobit.755da7149642fd049273.png",
+    "static/media/project4.jpg": "/static/media/project4.9da5ef7fc5b822f97b37.jpg",
+    "static/media/project2.jpg": "/static/media/project2.82949aa4a133018c36f7.jpg",
+    "static/media/project1.jpg": "/static/media/project1.dc394521504919bfd383.jpg",
     "static/media/Amit-Yadav-Resume.pdf": "/static/media/Amit-Yadav-Resume.d65f92c8d1cb606988fb.pdf",
+    "static/media/project3.jpg": "/static/media/project3.64e2a1ebba23fc4bb9f8.jpg",
     "static/media/web.png": "/static/media/web.c0cb2cc13791a26822d3.png",
     "static/media/backend.png": "/static/media/backend.08c8d93b8142c41a9e63.png",
     "static/media/mobile.png": "/static/media/mobile.15e7b89f1018dcdba6e7.png",
@@ -21,12 +25,12 @@
     "static/media/menu.svg": "/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
     "static/media/threejs.svg": "/static/media/threejs.34d1dab4caddf9c51437e9bafd282582.svg",
     "index.html": "/index.html",
-    "main.21012c65.css.map": "/static/css/main.21012c65.css.map",
-    "main.eb1ddf3c.js.map": "/static/js/main.eb1ddf3c.js.map",
+    "main.fd4d4220.css.map": "/static/css/main.fd4d4220.css.map",
+    "main.a08544fe.js.map": "/static/js/main.a08544fe.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21012c65.css",
-    "static/js/main.eb1ddf3c.js"
+    "static/css/main.fd4d4220.css",
+    "static/js/main.a08544fe.js"
   ]
 }
