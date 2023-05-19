@@ -1,24 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.fd4d4220.css",
-    "main.js": "/static/js/main.6b87a714.js",
+    "main.js": "/static/js/main.6067275a.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/tripguide.png": "/static/media/tripguide.991986c795ea140ba063.png",
+    "static/media/carrent.png": "/static/media/carrent.ba42eda5becb47ccbe7a.png",
+    "static/media/project1.png": "/static/media/project1.ba42eda5becb47ccbe7a.png",
     "static/media/me.png": "/static/media/me.d60da57b91ae990b5906.png",
+    "static/media/jobit.png": "/static/media/jobit.530b0c9f114f6ad660c3.png",
+    "static/media/project3.png": "/static/media/project3.530b0c9f114f6ad660c3.png",
     "static/media/CV_Duncan.png": "/static/media/CV_Duncan.e28e572554b2d615eda7.png",
     "static/media/herobg.png": "/static/media/herobg.ad33add2430e34307c33.png",
-    "static/media/carrent.png": "/static/media/carrent.6b1e855ede285c40b77f.png",
-    "static/media/jobit.png": "/static/media/jobit.755da7149642fd049273.png",
-    "static/media/project4.jpg": "/static/media/project4.9da5ef7fc5b822f97b37.jpg",
-    "static/media/project2.jpg": "/static/media/project2.82949aa4a133018c36f7.jpg",
-    "static/media/project1.jpg": "/static/media/project1.dc394521504919bfd383.jpg",
+    "static/media/project2.png": "/static/media/project2.e1589bb80fcec7ae09f7.png",
+    "static/media/tripguide.png": "/static/media/tripguide.e1589bb80fcec7ae09f7.png",
     "static/media/Amit-Yadav-Resume.pdf": "/static/media/Amit-Yadav-Resume.f6a9297bd06358d2f59f.pdf",
-    "static/media/project3.jpg": "/static/media/project3.64e2a1ebba23fc4bb9f8.jpg",
+    "static/media/chalo_ghume.png": "/static/media/chalo_ghume.3e1c19c27baa338ffd5b.png",
+    "static/media/boat_logo.png": "/static/media/boat_logo.1883813fce173802b484.png",
+    "static/media/project4.png": "/static/media/project4.c59da3ba52b5252685dc.png",
     "static/media/web.png": "/static/media/web.c0cb2cc13791a26822d3.png",
+    "static/media/quickloan.png": "/static/media/quickloan.013dabbc109f28dbb355.png",
+    "static/media/firstpost.png": "/static/media/firstpost.edd95fe3dcf287b4100f.png",
     "static/media/backend.png": "/static/media/backend.08c8d93b8142c41a9e63.png",
     "static/media/mobile.png": "/static/media/mobile.15e7b89f1018dcdba6e7.png",
     "static/media/creator.png": "/static/media/creator.f8923ce18390029928ac.png",
-    "static/media/starbucks.png": "/static/media/starbucks.c086db5b166ea2f14de1.png",
     "static/media/github.png": "/static/media/github.ed1c06d925fff0b57e32.png",
     "static/media/logo.svg": "/static/media/logo.b8a085cbfeca919d2e68a71e400bebdb.svg",
     "static/media/close.svg": "/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
@@ -26,11 +29,11 @@
     "static/media/threejs.svg": "/static/media/threejs.34d1dab4caddf9c51437e9bafd282582.svg",
     "index.html": "/index.html",
     "main.fd4d4220.css.map": "/static/css/main.fd4d4220.css.map",
-    "main.6b87a714.js.map": "/static/js/main.6b87a714.js.map",
+    "main.6067275a.js.map": "/static/js/main.6067275a.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd4d4220.css",
-    "static/js/main.6b87a714.js"
+    "static/js/main.6067275a.js"
   ]
 }
