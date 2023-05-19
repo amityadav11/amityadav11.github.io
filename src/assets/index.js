@@ -10,7 +10,7 @@ import CV_Duncan from "./CV_Duncan.png"
 import me from "./me.png"
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
+import chakra from "./tech/chakra.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -23,18 +23,18 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import quickLoan from "./company/quickloan.png";
+import chalo_ghume from "./company/chalo_ghume.png";
+import boat from "./company/boat_logo.png";
+import firstpost from "./company/firstpost.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import project1 from "./projects/project1.jpg"
-import project2 from "./projects/project2.jpg"
-import project3 from "./projects/project3.jpg"
-import project4 from "./projects/project4.jpg"
+import project1 from "./projects/project1.png"
+import project2 from "./projects/project2.png"
+import project3 from "./projects/project3.png"
+import project4 from "./projects/project4.png"
 export {
   me,
   CV_Duncan,
@@ -47,7 +47,7 @@ export {
   menu,
   close,
   css,
-  docker,
+  chakra,
   figma,
   git,
   html,
@@ -59,10 +59,10 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  quickLoan,
+  chalo_ghume,
+  boat,
+  firstpost,
   carrent,
   jobit,
   tripguide,

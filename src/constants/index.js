@@ -14,11 +14,11 @@ import {
   mongodb,
   git,
   figma,
-  docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  chakra,
+  quickLoan,
+  boat,
+  firstpost,
+  chalo_ghume,
   carrent,
   jobit,
   tripguide,
@@ -122,17 +122,17 @@ const technologies = [
   },
   {
     name: "docker",
-    icon: docker,
+    icon: chakra,
   },
 ];
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "boAt Lifestyle clone",
+    company_name: "Ecommerce Website",
+    icon: boat,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Aug 23, 2022 – Aug 28, 2022",
     img: project1,
     // points: [
     //   "Developing and maintaining web applications using React.js and other related technologies.",
@@ -142,11 +142,11 @@ const experiences = [
     // ],
   },
   {
-    title: "React Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Firstpost clone",
+    company_name: "News Website",
+    icon: firstpost,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Sept 27, 2022 - Oct 2, 2022",
     img: project2,
     // points: [
     //   "Developing and maintaining web applications using React.js and other related technologies.",
@@ -156,11 +156,11 @@ const experiences = [
     // ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "Chalo Ghume",
+    company_name: "Travel and tourism Website",
+    icon: chalo_ghume,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Mar 28, 2023 - Apr 3, 2023",
     img: project3,
     // points: [
     //   "Developing and maintaining web applications using React.js and other related technologies.",
@@ -170,11 +170,11 @@ const experiences = [
     // ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    title: "QuickLoan",
+    company_name: "Finance website for Loan",
+    icon: quickLoan,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "May 3, 2023 - May 8, 2023",
     img: project4,
     // points: [
     //   "Developing and maintaining web applications using React.js and other related technologies.",
@@ -214,67 +214,67 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "boAt Lifestyle clone",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Boat-lifestyle is an e-commerce site especially dealing with Earbuds, Headphones, Earphones & Wireless Speakers.",
     tags: [
       {
-        name: "react",
+        name: "HTML",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "CSS",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "JavaScript",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/amityadav11/truculent-giants-5898",
   },
   {
-    name: "Job IT",
+    name: "Chalo Ghume",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Travel and tourism Website. You can book flights, car and hotel from this website.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "redux",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Chakra UI",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/kumkumdutta/interesting-stretch-8935",
   },
   {
-    name: "Trip Guide",
+    name: "Firstpost clone",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Firstpost is a dynamic and reliable news website. You can read different category of news from here.",
     tags: [
       {
-        name: "nextjs",
+        name: "HTML",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "CSS",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "JavaScript",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/subhu499/FirstPost-Clone",
   },
 ];
 
